@@ -1,0 +1,8 @@
+{
+  "name": "Zenith: Habit & Study Companion",
+  "description": "A personalized daily habit and study tracker with AI assistance, exam countdowns, and a relaxation center.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
